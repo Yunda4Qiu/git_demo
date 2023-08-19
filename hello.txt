@@ -12,4 +12,4 @@ Hello git, are you happy today?
 Hello git, are you happy today?
 Hello git, are you happy today?
 Hello git, are you happy today? master test
-Hello git, are you happy today?
+Hello git, are you happy today? hot-fix test
